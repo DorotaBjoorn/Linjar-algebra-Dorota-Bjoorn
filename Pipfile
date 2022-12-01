@@ -9,6 +9,7 @@ numpy = "*"
 black = "*"
 ipykernel = "*"
 "python.dotenv" = "*"
+scipy = "*"
 
 [dev-packages]
 
